@@ -28,7 +28,7 @@ with a focus on clean architecture, smooth UX, and production-ready code.
 - 🧭 Senior Mobile Developer specializing in **Flutter** (mobile + web) and modern app architecture  
 - 🌱 Currently deepening expertise in **TypeScript**, backend services, and advanced mobile patterns  
 - 💼 Open to **freelance** and **remote** opportunities focused on product-quality Flutter apps  
-- 🎯 2024–2025 goals:
+- 🎯 2025–2026 goals:
   - Contribute to impactful open-source projects  
   - Ship and grow a personal mobile product  
   - Level up in scalable, cross-platform architectures  
