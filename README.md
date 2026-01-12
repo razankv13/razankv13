@@ -210,19 +210,6 @@ Modern grocery list app with real-time collaboration, voice input for adding ite
 
 <br>
 
-## GitHub Activity
-
-<div align="center">
-<a href="https://github.com/razankv13">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=razankv13&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" />
-</a>
-<a href="https://github.com/razankv13">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=razankv13&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-</a>
-</div>
-
-<br>
-
 ---
 
 <div align="center">
@@ -230,15 +217,15 @@ Modern grocery list app with real-time collaboration, voice input for adding ite
 ### Let's Connect
 
 <a href="https://www.linkedin.com/in/razankv13">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0d1117" />
 </a>
 &nbsp;
 <a href="mailto:razankv13@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://www.razankv13.dev">
-<img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=safari&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=safari&logoColor=0d1117" />
 </a>
 
 <br><br>
