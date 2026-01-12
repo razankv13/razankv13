@@ -1,203 +1,210 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:0d1117&height=200&section=header&text=&fontSize=0" />
+
 <div align="center">
-  
-# Hi there, I'm Raza 👋 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=razankv13&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://github.com/razankv13)
+# RAZA ABBAS
 
-<p align="center">
-  <samp>
-    Senior Mobile Developer passionate about creating innovative mobile solutions<br>
-    and contributing to open-source projects.
-  </samp>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+high-performance+mobile+experiences;Architecting+Flutter+apps+that+run+at+60+FPS;Turning+complex+data+into+elegant+UIs" alt="Typing SVG" /></a>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raza-abbas-86981a154/)
-[<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />](https://github.com/razankv13)
+**Senior Flutter Engineer @ [Zing Data](https://getzingdata.com) • San Francisco**
 
-</div>
-
-## 🚀 About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=razankv13&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" width="400px"/>
-
-- 🌱 Currently mastering TypeScript and advanced mobile development patterns
-- 💼 Seeking exciting freelance opportunities
-- 🎯 2024-2025 Goals:
-  - Contribute to major open-source projects
-  - Launch a personal mobile app
-  - Expand expertise in cross-platform development
-- 💡 Always learning and sharing knowledge with the developer community
-
-<br clear="right"/>
-
-## 🛠️ Tech Stack
+<br>
 
 <table>
-  <tr>
-    <td valign="top">
-      <h3>Mobile Development</h3>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
-    </td>
-    <td valign="top">
-      <h3>Languages</h3>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Backend & Tools</h3>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="150">
+<img width="60" src="https://img.shields.io/badge/7+-0d1117?style=for-the-badge&labelColor=0d1117" />
+<br>
+<sub><b>YEARS</b></sub>
+<br>
+<sub>Experience</sub>
+</td>
+<td align="center" width="150">
+<img width="60" src="https://img.shields.io/badge/60-0d1117?style=for-the-badge&labelColor=0d1117" />
+<br>
+<sub><b>FPS</b></sub>
+<br>
+<sub>Rendering</sub>
+</td>
+<td align="center" width="150">
+<img width="60" src="https://img.shields.io/badge/120+-0d1117?style=for-the-badge&labelColor=0d1117" />
+<br>
+<sub><b>SOURCES</b></sub>
+<br>
+<sub>Integrated</sub>
+</td>
+<td align="center" width="150">
+<img width="60" src="https://img.shields.io/badge/30%25-0d1117?style=for-the-badge&labelColor=0d1117" />
+<br>
+<sub><b>FASTER</b></sub>
+<br>
+<sub>Delivery</sub>
+</td>
+</tr>
 </table>
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=razankv13&theme=tokyonight&border_radius=15" />
 </div>
 
-## 🎯 Latest Projects
+<br>
 
-<details>
-<summary><h3>🌟 ZingData - Advanced Data Analytics Platform</h3></summary>
+## Currently Building
 
-A powerful Flutter-based mobile analytics platform revolutionizing data visualization and analysis.
+<table>
+<tr>
+<td>
 
-**Key Technologies:**
-- 📱 Flutter & Dart
-- 🏗️ Clean Architecture with Riverpod
-- 🔄 GoRouter Navigation
-- 📊 Custom Analytics Engine
-- 🔐 End-to-end Encryption
+### Zing Data &nbsp;`San Francisco, CA`
 
-**Highlights:**
-- Interactive data visualization with real-time updates
-- Cross-platform support with responsive design
-- Advanced analytics with predictive capabilities
-- Secure collaboration features
-- Enterprise-grade security implementation
+AI-powered analytics platform enabling teams to explore data through natural language queries and visual dashboards. Connects to 120+ data sources including Snowflake, BigQuery, and Postgres.
 
-</details>
+**Key Contributions:**
+- Architected scalable cross-platform codebase (iOS, Android, Web) using Clean Architecture + Riverpod
+- Achieved 60 FPS rendering on data-heavy visualization screens via background isolates
+- Built reusable component library that reduced feature delivery time by 30%
 
-<details>
-<summary><h3>🎮 Batal - Virtual Prediction Gaming Platform</h3></summary>
+</td>
+</tr>
+</table>
 
-A dynamic Flutter-based mobile application that transforms sports predictions and gaming into an engaging social experience.
+<br>
 
-#### 🛠️ Key Technologies
-- 📱 Flutter & Dart
-- 🏗️ Clean Architecture with Riverpod
-- 🌐 Internationalization (RTL/LTR Support)
-- 🎯 Google Mobile Ads Integration
-- 🔒 Firebase Authentication & Real-time Database
-
-<details>
-<summary><b>✨ Core Features</b></summary>
-
-##### 🎲 Virtual Prediction System
-- Real-time event tracking
-- Live score updates
-- Virtual coin economy
-
-##### 🏆 Social Gaming Elements
-- Competitive leaderboards
-- Referral system
-- Social sharing capabilities
-
-##### 💎 Reward Mechanisms
-- Daily login rewards
-- Level progression system
-- VIP membership benefits
-
-##### 🎁 Raffle System
-- Regular giveaways
-- Automated winner selection
-- Prize redemption platform
-</details>
-
-#### 🔧 Technical Highlights
-- 🔄 State Management with Riverpod
-- 📱 Responsive UI with Material Design
-- 🌍 Multi-language Support
-- ⚡ Custom Animations & Transitions
-- 📊 Analytics Integration
-- 🔐 Privacy-focused Implementation
-
-</details>
-
-<details>
-<summary><h3>🌟 Hero Edge - Advanced Dota 2 Strategy Assistant</h3></summary>
-
-A sophisticated Flutter application empowering Dota 2 players with AI-driven insights and strategic analysis for competitive gameplay.
-
-<details>
-<summary><b>🚀 Key Technologies</b></summary>
-
-##### 📱 Core Stack
-- Flutter & Dart
-- Riverpod for state management
-- GoRouter for navigation
-- Firebase suite (Auth, Firestore, Analytics)
-- Freezed for immutable models
-
-##### 🏗️ Architecture
-- Clean Architecture principles
-- Feature-first organization
-- SOLID principles adherence
-- Repository pattern
-- Dependency injection with Riverpod
-</details>
-
-<details>
-<summary><b>✨ Features & Highlights</b></summary>
-
-##### 1. 🎮 Advanced Game Analysis
-- Real-time draft strategy recommendations
-- Team composition analysis
-- Hero counter suggestions
-- Itemization optimization
-- Meta trend analysis
-
-##### 2. 🔄 Interactive Features
-- Dynamic hero selection interface
-- Real-time draft simulation
-- Interactive item build guides
-- Role-based recommendations
-- Visual skill guides
-
-##### 3. ⚡ Performance & UX
-- Smooth animations and transitions
-- Responsive cross-platform design
-- Offline capability
-- Dark theme optimization
-- Gesture-based interactions
-</details>
-
-</details>
-
-## 📫 Let's Connect
+## Core Expertise
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/raza-abbas-86981a154/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/razankv13">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<table>
+<tr>
+<td align="center" width="200">
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart" width="48" height="48" alt="Flutter" />
+<br><br>
+<b>Flutter & Dart</b>
+<br>
+<sub>Cross-platform mastery</sub>
+<br><br>
+</td>
+<td align="center" width="200">
+<br>
+<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Architecture" />
+<br><br>
+<b>Clean Architecture</b>
+<br>
+<sub>Riverpod • Bloc • Provider</sub>
+<br><br>
+</td>
+<td align="center" width="200">
+<br>
+<img src="https://img.icons8.com/fluency/48/speed.png" width="48" height="48" alt="Performance" />
+<br><br>
+<b>Performance</b>
+<br>
+<sub>60 FPS • Isolates • Profiling</sub>
+<br><br>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<br>
+<img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="Platforms" />
+<br><br>
+<b>Cross-Platform</b>
+<br>
+<sub>iOS • Android • Web</sub>
+<br><br>
+</td>
+<td align="center" width="200">
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="APIs" />
+<br><br>
+<b>Real-Time APIs</b>
+<br>
+<sub>REST • WebSocket • GraphQL</sub>
+<br><br>
+</td>
+<td align="center" width="200">
+<br>
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br><br>
+<b>Firebase</b>
+<br>
+<sub>Auth • Firestore • Analytics</sub>
+<br><br>
+</td>
+</tr>
+</table>
 </div>
+
+<br>
+
+## Featured Work
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### Hero Edge
+**Dota 2 Strategy Assistant**
+
+AI-driven insights and strategic analysis for competitive gameplay. Real-time draft recommendations, hero counters, and meta analysis.
+
+`Flutter` `Riverpod` `Firebase` `GoRouter`
+
+</td>
+<td width="50%">
+
+### Batal
+**Virtual Prediction Gaming**
+
+Sports prediction platform with virtual coin economy, competitive leaderboards, and social gaming elements. RTL/LTR internationalization support.
+
+`Flutter` `Firebase` `Google Ads` `i18n`
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+<a href="https://github.com/razankv13">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=razankv13&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" />
+</a>
+<a href="https://github.com/razankv13">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=razankv13&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+</a>
+</div>
+
+<br>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/razankv13">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+</a>
+&nbsp;
+<a href="mailto:razankv13@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+</a>
+&nbsp;
+<a href="https://www.razankv13.dev">
+<img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=safari&logoColor=00D9FF" />
+</a>
+
+<br><br>
+
+*"Building the future of mobile, one pixel-perfect frame at a time."*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=razankv13&color=00D9FF&style=flat-square&label=Profile+Views" />
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:0d1117&height=120&section=footer" />
