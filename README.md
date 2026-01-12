@@ -142,22 +142,66 @@ AI-powered analytics platform enabling teams to explore data through natural lan
 <tr>
 <td width="50%">
 
-### Hero Edge
-**Dota 2 Strategy Assistant**
+### Batal
+**Sports Gaming & Predictions**
 
-AI-driven insights and strategic analysis for competitive gameplay. Real-time draft recommendations, hero counters, and meta analysis.
+Sports gaming platform enabling users to compete in daily prediction games, fantasy sports, and raffles while earning rewards.
 
-`Flutter` `Riverpod` `Firebase` `GoRouter`
+`Flutter` `Firebase` `Clean Architecture`
 
 </td>
 <td width="50%">
 
-### Batal
-**Virtual Prediction Gaming**
+### Orokii
+**International Money Transfer**
 
-Sports prediction platform with virtual coin economy, competitive leaderboards, and social gaming elements. RTL/LTR internationalization support.
+Digital money transfer platform enabling users to send money across 70+ countries with zero transfer fees and real-time exchange rates.
 
-`Flutter` `Firebase` `Google Ads` `i18n`
+`Flutter` `Riverpod` `Fintech`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Arrive
+**School Safety Platform**
+
+Real-time student pickup, drop-off, and dismissal platform connecting parents, teachers, and schools with QR-based identity verification.
+
+`Flutter` `Firebase` `Real-time API`
+
+</td>
+<td width="50%">
+
+### Abjadiyat
+**Arabic Learning Platform**
+
+Arabic learning content platform for children aged 3-8 with secure authentication and low-latency content delivery.
+
+`TypeScript` `MongoDB` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Waffir
+**Deals & Shopping Platform**
+
+Deals and shopping platform featuring hot deals, store directory, credit card management, and premium subscriptions with multi-language support.
+
+`Flutter` `Riverpod` `Supabase`
+
+</td>
+<td width="50%">
+
+### ListAIse
+**Smart Grocery Lists**
+
+Modern grocery list app with real-time collaboration, voice input for adding items, receipt scanning, and seamless cross-platform sync.
+
+`Flutter` `Firebase` `Hive`
 
 </td>
 </tr>
