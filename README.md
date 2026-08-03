@@ -8,8 +8,6 @@
 
 **Senior Flutter Engineer @ [QuoteIQ](https://myquoteiq.com/) • Jul 2026–Present**
 
-<sub>Previously: Zing Data • Through Dec 2025</sub>
-
 <br>
 
 <table>
@@ -51,13 +49,17 @@
 
 <br>
 
-## Currently Building
+## Experience
 
 <table>
 <tr>
 <td>
 
+<sub><b>CURRENT ROLE</b></sub>
+
 ### [QuoteIQ](https://myquoteiq.com/) &nbsp;`Jul 2026–Present`
+
+**Senior Flutter Engineer**
 
 All-in-one field-service CRM built for home-service contractors, bringing estimates, scheduling, invoicing, payments, and customer communication into one product.
 
@@ -65,6 +67,23 @@ All-in-one field-service CRM built for home-service contractors, bringing estima
 - Delivering production Flutter experiences across mobile, tablet, and web
 - Building AI-assisted estimating workflows across the app and Firebase backend
 - Hardening invoicing, payments, customer portals, and release-critical flows with focused tests and emulator-backed validation
+
+</td>
+</tr>
+<tr>
+<td>
+
+<sub><b>PREVIOUS ROLE</b></sub>
+
+### [Zing Data](https://www.youtube.com/@zingdata/videos) &nbsp;`Through Dec 2025`
+
+**Senior Flutter Engineer**
+
+AI-powered analytics platform for natural-language data exploration and visual dashboards across iOS, Android, and web.
+
+**Key Contributions:**
+- Architected cross-platform Flutter foundations using Clean Architecture and Riverpod
+- Improved data-heavy visualization performance and built reusable product UI
 
 </td>
 </tr>
