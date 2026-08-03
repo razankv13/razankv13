@@ -14,28 +14,30 @@
 
 <table>
 <tr>
-<td align="center" width="150">
+<td align="center" width="50%">
 <img width="60" src="https://img.shields.io/badge/7+-0d1117?style=for-the-badge&labelColor=0d1117" alt="7+ years" />
 <br>
 <sub><b>YEARS</b></sub>
 <br>
 <sub>Flutter experience</sub>
 </td>
-<td align="center" width="150">
+<td align="center" width="50%">
 <img width="60" src="https://img.shields.io/badge/3-0d1117?style=for-the-badge&labelColor=0d1117" alt="3 platforms" />
 <br>
 <sub><b>PLATFORMS</b></sub>
 <br>
 <sub>iOS • Android • Web</sub>
 </td>
-<td align="center" width="150">
+</tr>
+<tr>
+<td align="center" width="50%">
 <img width="60" src="https://img.shields.io/badge/8-0d1117?style=for-the-badge&labelColor=0d1117" alt="8 products" />
 <br>
 <sub><b>PRODUCTS</b></sub>
 <br>
 <sub>Production work</sub>
 </td>
-<td align="center" width="150">
+<td align="center" width="50%">
 <img width="60" src="https://img.shields.io/badge/A--Z-0d1117?style=for-the-badge&labelColor=0d1117" alt="Architecture to release" />
 <br>
 <sub><b>DELIVERY</b></sub>
