@@ -6,39 +6,41 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+high-performance+mobile+experiences;Architecting+Flutter+apps+that+run+at+60+FPS;Turning+complex+data+into+elegant+UIs" alt="Typing SVG" /></a>
 
-**Senior Flutter Engineer @ [Zing Data](https://getzingdata.com) • San Francisco**
+**Senior Flutter Engineer @ [QuoteIQ](https://myquoteiq.com/) • Jul 2026–Present**
+
+<sub>Previously: Zing Data • Through Dec 2025</sub>
 
 <br>
 
 <table>
 <tr>
 <td align="center" width="150">
-<img width="60" src="https://img.shields.io/badge/7+-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img width="60" src="https://img.shields.io/badge/7+-0d1117?style=for-the-badge&labelColor=0d1117" alt="7+ years" />
 <br>
 <sub><b>YEARS</b></sub>
 <br>
-<sub>Experience</sub>
+<sub>Flutter experience</sub>
 </td>
 <td align="center" width="150">
-<img width="60" src="https://img.shields.io/badge/60-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img width="60" src="https://img.shields.io/badge/3-0d1117?style=for-the-badge&labelColor=0d1117" alt="3 platforms" />
 <br>
-<sub><b>FPS</b></sub>
+<sub><b>PLATFORMS</b></sub>
 <br>
-<sub>Rendering</sub>
+<sub>iOS • Android • Web</sub>
 </td>
 <td align="center" width="150">
-<img width="60" src="https://img.shields.io/badge/120+-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img width="60" src="https://img.shields.io/badge/8-0d1117?style=for-the-badge&labelColor=0d1117" alt="8 products" />
 <br>
-<sub><b>SOURCES</b></sub>
+<sub><b>PRODUCTS</b></sub>
 <br>
-<sub>Integrated</sub>
+<sub>Production work</sub>
 </td>
 <td align="center" width="150">
-<img width="60" src="https://img.shields.io/badge/30%25-0d1117?style=for-the-badge&labelColor=0d1117" />
+<img width="60" src="https://img.shields.io/badge/A--Z-0d1117?style=for-the-badge&labelColor=0d1117" alt="Architecture to release" />
 <br>
-<sub><b>FASTER</b></sub>
+<sub><b>DELIVERY</b></sub>
 <br>
-<sub>Delivery</sub>
+<sub>Architecture to release</sub>
 </td>
 </tr>
 </table>
@@ -53,14 +55,14 @@
 <tr>
 <td>
 
-### Zing Data &nbsp;`San Francisco, CA`
+### [QuoteIQ](https://myquoteiq.com/) &nbsp;`Jul 2026–Present`
 
-AI-powered analytics platform enabling teams to explore data through natural language queries and visual dashboards. Connects to 120+ data sources including Snowflake, BigQuery, and Postgres.
+All-in-one field-service CRM built for home-service contractors, bringing estimates, scheduling, invoicing, payments, and customer communication into one product.
 
 **Key Contributions:**
-- Architected scalable cross-platform codebase (iOS, Android, Web) using Clean Architecture + Riverpod
-- Achieved 60 FPS rendering on data-heavy visualization screens via background isolates
-- Built reusable component library that reduced feature delivery time by 30%
+- Delivering production Flutter experiences across mobile, tablet, and web
+- Building AI-assisted estimating workflows across the app and Firebase backend
+- Hardening invoicing, payments, customer portals, and release-critical flows with focused tests and emulator-backed validation
 
 </td>
 </tr>
@@ -174,12 +176,12 @@ Real-time student pickup, drop-off, and dismissal platform connecting parents, t
 </td>
 <td width="50%">
 
-### Abjadiyat
-**Arabic Learning Platform**
+### QuoteIQ
+**Field Service CRM for Contractors**
 
-Arabic learning content platform for children aged 3-8 with secure authentication and low-latency content delivery.
+Cross-platform business management for estimates, scheduling, invoicing, payments, and AI-assisted workflows.
 
-`TypeScript` `MongoDB` `Node.js`
+`Flutter` `Firebase` `AI`
 
 </td>
 </tr>
